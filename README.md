@@ -68,14 +68,11 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   **[React](https://reactjs.org/)** 
--   **[NodeJs](https://nodejs.org/)**
----
 
 ## 🦸🏻‍♂️ Autores
 
 <a href="https://github.com/denilsonbezerra">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/97971798?v=4" width="100px;" alt=""/>
+ <img src="https://avatars.githubusercontent.com/u/97971798?v=4" width="95"/> 
  <br>
   <sub><b><p>Denilson Bezerra</p></b></sub></a>
  <br />
