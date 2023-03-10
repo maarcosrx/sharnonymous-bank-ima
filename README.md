@@ -69,7 +69,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 As seguintes ferramentas foram usadas na construção do projeto:
 
 
-## 🦸🏻‍♂️ Autores
+## 💻 Autores
 
 <a href="https://github.com/denilsonbezerra">
  <img src="https://avatars.githubusercontent.com/u/97971798?v=4" width="95"/> 
