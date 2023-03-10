@@ -2,43 +2,45 @@
 <br>
 
 
-<h2 align="center">🚧 🚀 Em desenvolvimento 🚀 🚧</h2>
-	
+<h2 align="center">🚧 🚀 Em desenvolvimento 🚀 🚧</h2> 
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre o projeto](#-sobre-o-projeto)
-   * [Funcionalidades](#%EF%B8%8F-funcionalidades)
-   * [Layout](#-layout)
-   * [Como executar o projeto](#-como-executar-o-projeto)
-     * [Pré-requisitos](#pré-requisitos)
-     * [Rodando a aplicação](#-rodando-a-aplicação)
-   * [Tecnologias](#-tecnologias)
-   * [Autores](#-autores)
-   * [Licença](#-licença)
-<!--te-->
 
 
 ## 💻 Sobre o projeto
 
 💪 [Titulo Descrição] - [Descrição].
 
+<!--ts-->
+
+ * [Sobre o projeto](#-sobre-o-projeto)
+   * [Funcionalidades](#%EF%B8%8F-funcionalidades)
+   * [Layout](#-layout)
+   * [Como executar o projeto](#-como-executar-o-projeto)
+   * [Tecnologias](#-tecnologias)
+   * [Autores](#-autores)
+   * [Licença](#-licença)
+<!--te-->
+
 ---
+
 
 ## ⚙️ Funcionalidades
 
-- [x] [Texto aqui].
+```
 
----
+[Texto aqui]
+
+```
 
 ## 🎨 Layout
 
 O layout da aplicação está disponível no Netlify:
 
-<a href="#">
-  <img alt="Imagens do Projeto" src="">
-</a>
+```
+
+[Imagens do projeto]
+
+```
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
  
