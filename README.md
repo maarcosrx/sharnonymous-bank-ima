@@ -76,7 +76,48 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <br>
   <sub><b><p>Denilson Bezerra</p></b></sub></a>
  <br />
+ 
+ <a href="https://github.com/denilsonbezerra">
+ <img src="https://avatars.githubusercontent.com/u/116990892?v=4" width="95"/> 
+ <br>
+  <sub><b><p>Isabela Schadt</p></b></sub></a>
+ <br />
+ 
+ <a href="https://github.com/denilsonbezerra">
+ <img src="https://avatars.githubusercontent.com/u/113800812?v=4" width="95"/> 
+ <br>
+  <sub><b><p>Lúcia Maria</p></b></sub></a>
+ <br />
 
+<a href="https://github.com/denilsonbezerra">
+ <img src="https://avatars.githubusercontent.com/u/104375979?v=4" width="95"/> 
+ <br>
+  <sub><b><p>Lettycia Cristina</p></b></sub></a>
+ <br />
+
+  <a href="https://github.com/denilsonbezerra">
+ <img src="https://avatars.githubusercontent.com/u/53311469?v=4" width="95"/> 
+ <br>
+  <sub><b><p>Marcos Pádua</p></b></sub></a>
+ <br />
+ 
+ <a href="https://github.com/denilsonbezerra">
+ <img src="https://avatars.githubusercontent.com/u/115824012?v=4" width="95"/> 
+ <br>
+  <sub><b><p>Matheus Henrique</p></b></sub></a>
+ <br />
+
+ <a href="https://github.com/denilsonbezerra">
+ <img src="https://avatars.githubusercontent.com/u/72143562?v=4" width="95"/> 
+ <br>
+  <sub><b><p>Moises Santos</p></b></sub></a>
+ <br />
+ 
+ <a href="https://github.com/denilsonbezerra">
+ <img src="https://avatars.githubusercontent.com/u/52933778?v=4" width="95"/> 
+ <br>
+  <sub><b><p>Rafael Moreira</p></b></sub></a>
+ <br />
 
 ## 📝 Licença
 
