@@ -116,6 +116,18 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <br />
  
  <a href="https://github.com/denilsonbezerra">
+ <img src="https://avatars.githubusercontent.com/u/98282656?v=4" width="95"/> 
+ <br>
+  <sub><b><p>Rafael Santos</p></b></sub></a>
+ <br />
+ 
+ <a href="https://github.com/denilsonbezerra">
+ <img src="https://avatars.githubusercontent.com/u/41549626?v=4" width="95"/> 
+ <br>
+  <sub><b><p>Luis Pacheco</p></b></sub></a>
+ <br />
+ 
+ <a href="https://github.com/denilsonbezerra">
  <img src="https://avatars.githubusercontent.com/u/52933778?v=4" width="95"/> 
  <br>
   <sub><b><p>Rafael Moreira</p></b></sub></a>
