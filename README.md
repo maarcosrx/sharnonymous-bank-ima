@@ -73,8 +73,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 💻 Autores
 
-<a href="https://github.com/denilsonbezerra">
- <img src="https://avatars.githubusercontent.com/u/97971798?v=4" width="95"/> 
+<a href="https://github.com/denilsonbezerra" class="circle">
+ <img src="https://avatars.githubusercontent.com/u/97971798?v=4" class="circle" width="95"/> 
  <br>
   <sub><b><p>Denilson Bezerra</p></b></sub></a>
  <br />
@@ -85,16 +85,22 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <sub><b><p>Isabela Schadt</p></b></sub></a>
  <br />
  
+<a href="https://github.com/denilsonbezerra">
+ <img src="https://avatars.githubusercontent.com/u/104375979?v=4" width="95"/> 
+ <br>
+  <sub><b><p>Lettycia Cristina</p></b></sub></a>
+ <br />
+ 
  <a href="https://github.com/denilsonbezerra">
  <img src="https://avatars.githubusercontent.com/u/113800812?v=4" width="95"/> 
  <br>
   <sub><b><p>Lúcia Maria</p></b></sub></a>
  <br />
-
-<a href="https://github.com/denilsonbezerra">
- <img src="https://avatars.githubusercontent.com/u/104375979?v=4" width="95"/> 
+ 
+ <a href="https://github.com/denilsonbezerra">
+ <img src="https://avatars.githubusercontent.com/u/41549626?v=4" width="95"/> 
  <br>
-  <sub><b><p>Lettycia Cristina</p></b></sub></a>
+  <sub><b><p>Luis Pacheco</p></b></sub></a>
  <br />
 
   <a href="https://github.com/denilsonbezerra">
@@ -119,12 +125,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <img src="https://avatars.githubusercontent.com/u/98282656?v=4" width="95"/> 
  <br>
   <sub><b><p>Rafael Santos</p></b></sub></a>
- <br />
- 
- <a href="https://github.com/denilsonbezerra">
- <img src="https://avatars.githubusercontent.com/u/41549626?v=4" width="95"/> 
- <br>
-  <sub><b><p>Luis Pacheco</p></b></sub></a>
  <br />
  
  <a href="https://github.com/denilsonbezerra">
