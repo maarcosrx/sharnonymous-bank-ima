@@ -16,8 +16,9 @@
    * [Funcionalidades](#%EF%B8%8F-funcionalidades)
    * [Layout](#-layout)
    * [Como executar o projeto](#-como-executar-o-projeto)
+   * [Rodando a aplicação](#-rodando-a-aplicação)
    * [Tecnologias](#-tecnologias)
-   * [Autores](#-autores)
+   * [Contribuições](#-contribuições)
    * [Licença](#-licença)
 <!--te-->
 
@@ -71,67 +72,87 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 As seguintes ferramentas foram usadas na construção do projeto:
 
 
-## 💻 Autores
+## 💻 Contribuições
 
+<table>
+<tr>
+<td align="center">
 <a href="https://github.com/denilsonbezerra" class="circle">
- <img src="https://avatars.githubusercontent.com/u/97971798?v=4" class="circle" width="95"/> 
- <br>
-  <sub><b><p>Denilson Bezerra</p></b></sub></a>
+    <img src="https://avatars.githubusercontent.com/u/97971798?v=4" class="circle" width="95"/> 
  <br />
+  <sub><b><p>Denilson Bezerra</p></b></sub>💻🚀</a>
+</td>
  
- <a href="https://github.com/denilsonbezerra">
- <img src="https://avatars.githubusercontent.com/u/116990892?v=4" width="95"/> 
- <br>
-  <sub><b><p>Isabela Schadt</p></b></sub></a>
+ <td align="center">
+  <a href="https://github.com/IsabelaSchadt">
+    <img src="https://avatars.githubusercontent.com/u/116990892?v=4" width="95"/> 
  <br />
- 
-<a href="https://github.com/denilsonbezerra">
- <img src="https://avatars.githubusercontent.com/u/104375979?v=4" width="95"/> 
- <br>
-  <sub><b><p>Lettycia Cristina</p></b></sub></a>
- <br />
- 
- <a href="https://github.com/denilsonbezerra">
- <img src="https://avatars.githubusercontent.com/u/113800812?v=4" width="95"/> 
- <br>
-  <sub><b><p>Lúcia Maria</p></b></sub></a>
- <br />
- 
- <a href="https://github.com/denilsonbezerra">
- <img src="https://avatars.githubusercontent.com/u/41549626?v=4" width="95"/> 
- <br>
-  <sub><b><p>Luis Pacheco</p></b></sub></a>
- <br />
+   <sub><b><p>Isabela Schadt</p></b></sub>💻🚀</a>
+ </td>
 
-  <a href="https://github.com/denilsonbezerra">
+<td align="center">
+  <a href="https://github.com/lettyciasilva">
+    <img src="https://avatars.githubusercontent.com/u/104375979?v=4" width="95"/> 
+<br />
+  <sub><b><p>Lettycia Cristina</p></b></sub>💻🚀</a>
+</td>
+ 
+<td align="center">
+  <a href="https://github.com/LuciaSantos81">
+    <img src="https://avatars.githubusercontent.com/u/113800812?v=4" width="95"/> 
+<br />
+   <sub><b><p>Lúcia Maria</p></b></sub>💻🚀</a>
+</td>
+
+<td align="center">
+  <a href="https://github.com/pachecocaldas">
+    <img src="https://avatars.githubusercontent.com/u/41549626?v=4" width="95"/> 
+ <br />
+   <sub><b><p>Luis Pacheco</p></b></sub>💻🚀</a>
+</td>
+</tr>
+  
+ <tr>
+   <td align="center">
+  <a href="https://github.com/maarcosrx">
  <img src="https://avatars.githubusercontent.com/u/53311469?v=4" width="95"/> 
  <br>
-  <sub><b><p>Marcos Pádua</p></b></sub></a>
- <br />
- 
- <a href="https://github.com/denilsonbezerra">
+    <sub><b><p>Marcos Pádua</p></b></sub>💻🚀</a>
+ </td>
+ <br />  
+  
+   <td align="center">
+ <a href="https://github.com/MatheusHenrique95">
  <img src="https://avatars.githubusercontent.com/u/115824012?v=4" width="95"/> 
  <br>
-  <sub><b><p>Matheus Henrique</p></b></sub></a>
+   <sub><b><p>Matheus Henrique</p></b></sub>💻🚀</a>
+ </td>
  <br />
 
- <a href="https://github.com/denilsonbezerra">
- <img src="https://avatars.githubusercontent.com/u/72143562?v=4" width="95"/> 
- <br>
-  <sub><b><p>Moises Santos</p></b></sub></a>
+ <td align="center">
+  <a href="https://github.com/denilsonbezerra">
+    <img src="https://avatars.githubusercontent.com/u/72143562?v=4" width="95"/> 
  <br />
+   <sub><b><p>Moises Santos</p></b></sub>💻🚀</a>
+ </td>
  
- <a href="https://github.com/denilsonbezerra">
- <img src="https://avatars.githubusercontent.com/u/98282656?v=4" width="95"/> 
- <br>
-  <sub><b><p>Rafael Santos</p></b></sub></a>
- <br />
+ <td align="center">
+  <a href="https://github.com/RafaelSantos22">
+    <img src="https://avatars.githubusercontent.com/u/98282656?v=4" width="95"/> 
+<br />
+  <sub><b><p>Rafael Santos</p></b></sub>💻🚀</a>
+</td>
  
- <a href="https://github.com/denilsonbezerra">
- <img src="https://avatars.githubusercontent.com/u/52933778?v=4" width="95"/> 
- <br>
-  <sub><b><p>Rafael Moreira</p></b></sub></a>
+<td align="center">
+ <a href="https://github.com/RafaeltiMoreira">
+    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/52933778?v=4" width="100px;" alt=""/> 
  <br />
+   <sub><b><p>Rafael Moreira</p></b></sub>💻🚀</a>
+</td>
+
+</tr>
+</table>
+ 
 
 ## 📝 Licença
 
