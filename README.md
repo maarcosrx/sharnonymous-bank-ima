@@ -1,8 +1,8 @@
 <h1 align="center"S#harnonymous</h1>			
-<br>
+<br />
 
 
-<h2 align="center">🚧 🚀 Em desenvolvimento 🚀 🚧</h2> 
+<h2 align="center">🚧🚀 Em desenvolvimento 🚀🚧</h2> 
 
 
 
@@ -24,6 +24,7 @@
 
 ---
 
+<br />
 
 ## ⚙️ Funcionalidades
 
@@ -32,6 +33,10 @@
 [Texto aqui]
 
 ```
+
+---
+
+<br />
 
 ## 🎨 Layout
 
@@ -42,10 +47,10 @@ O layout da aplicação está disponível no Netlify:
 [Imagens do projeto]
 
 ```
+---
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
- 
-</p>
+<br />
+
 
 ---
 
@@ -57,9 +62,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
+---
 
+<br />
 
 #### 🧭 Rodando a aplicação
+
 ```
 
 [Descrição aqui]
@@ -67,12 +75,18 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```
 ---
 
+<br />
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
+---
+
+<br />
 
 ## 💻 Contribuições
+---
 
 <table>
 <tr>
@@ -80,35 +94,35 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/denilsonbezerra" class="circle">
     <img src="https://avatars.githubusercontent.com/u/97971798?v=4" class="circle" width="95"/> 
  <br />
-  <sub><b>Denilson Bezerra</b></sub><br />💻🚀</a>
+  <sub><b>Denilson Bezerra</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
 </td>
  
  <td align="center">
   <a href="https://github.com/IsabelaSchadt">
     <img src="https://avatars.githubusercontent.com/u/116990892?v=4" width="95"/> 
  <br />
-   <sub><b>Isabela Schadt</b></sub><br />💻🚀</a>
+   <sub><b>Isabela Schadt</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
  </td>
 
 <td align="center">
   <a href="https://github.com/lettyciasilva">
     <img src="https://avatars.githubusercontent.com/u/104375979?v=4" width="95"/> 
 <br />
-  <sub><b>Lettycia Cristina</b></sub><br />💻🚀</a>
+  <sub><b>Lettycia Cristina</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
 </td>
  
 <td align="center">
   <a href="https://github.com/LuciaSantos81">
     <img src="https://avatars.githubusercontent.com/u/113800812?v=4" width="95"/> 
 <br />
-   <sub><b>Lúcia Maria</b></sub><br />💻🚀</a>
+   <sub><b>Lúcia Maria</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
 </td>
 
 <td align="center">
   <a href="https://github.com/pachecocaldas">
     <img src="https://avatars.githubusercontent.com/u/41549626?v=4" width="95"/> 
  <br />
-   <sub><b>Luis Pacheco</b></sub><br />💻🚀</a>
+   <sub><b>Luis Pacheco</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
 </td>
 </tr>
   
@@ -117,7 +131,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <a href="https://github.com/maarcosrx">
  <img src="https://avatars.githubusercontent.com/u/53311469?v=4" width="95"/> 
  <br>
-    <sub><b>Marcos Pádua</b></sub><br />💻🚀</a>
+    <sub><b>Marcos Pádua</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
  </td>
  <br />  
   
@@ -125,7 +139,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <a href="https://github.com/MatheusHenrique95">
  <img src="https://avatars.githubusercontent.com/u/115824012?v=4" width="95"/> 
  <br>
-   <sub><b>Matheus Henrique</b></sub><br />💻🚀</a>
+   <sub><b>Matheus Henrique</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
  </td>
  <br />
 
@@ -133,26 +147,29 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <a href="https://github.com/denilsonbezerra">
     <img src="https://avatars.githubusercontent.com/u/72143562?v=4" width="95"/> 
  <br />
-   <sub><b>Moises Santos</b></sub><br />💻🚀</a>
+   <sub><b>Moises Santos</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
  </td>
  
  <td align="center">
   <a href="https://github.com/RafaelSantos22">
     <img src="https://avatars.githubusercontent.com/u/98282656?v=4" width="95"/> 
 <br />
-  <sub><b>Rafael Santos</b></sub><br />💻🚀</a>
+  <sub><b>Rafael Santos</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
 </td>
  
 <td align="center">
  <a href="https://github.com/RafaeltiMoreira">
     <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/52933778?v=4" width="100px;" alt=""/> 
  <br />
-   <sub><b>Rafael Moreira</b></sub><br />💻🚀</a>
+   <sub><b>Rafael Moreira</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
 </td>
 
 </tr>
 </table>
  
+---
+
+<br />
 
 ## 📝 Licença
 
