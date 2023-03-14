@@ -94,7 +94,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/denilsonbezerra" class="circle">
     <img src="https://avatars.githubusercontent.com/u/97971798?v=4" class="circle" width="95"/> 
  <br />
-  <sub><b>Denilson Bezerra</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
+  <sub><b>Denilson Bezerra</b></sub><br />Front-end & Back-end</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
 </td>
  
  <td align="center">
@@ -108,14 +108,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <a href="https://github.com/lettyciasilva">
     <img src="https://avatars.githubusercontent.com/u/104375979?v=4" width="95"/> 
 <br />
-  <sub><b>Lettycia Cristina</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
+  <sub><b>Lettycia Cristina</b></sub><br />Front-end & Back-end</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
 </td>
  
 <td align="center">
   <a href="https://github.com/LuciaSantos81">
     <img src="https://avatars.githubusercontent.com/u/113800812?v=4" width="95"/> 
 <br />
-   <sub><b>Lúcia Maria</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
+   <sub><b>Lúcia Maria</b></sub><br />Front-end & Back-end</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
 </td>
 
 <td align="center">
@@ -131,7 +131,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <a href="https://github.com/maarcosrx">
  <img src="https://avatars.githubusercontent.com/u/53311469?v=4" width="95"/> 
  <br>
-    <sub><b>Marcos Pádua</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
+    <sub><b>Marcos Pádua</b></sub><br />Front-end & Back-end</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
  </td>
  <br />  
   
@@ -147,7 +147,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <a href="https://github.com/denilsonbezerra">
     <img src="https://avatars.githubusercontent.com/u/72143562?v=4" width="95"/> 
  <br />
-   <sub><b>Moises Santos</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
+   <sub><b>Moises Santos</b></sub><br />Front-end & Back-end</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
  </td>
  
  <td align="center">
@@ -161,7 +161,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <a href="https://github.com/RafaeltiMoreira">
     <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/52933778?v=4" width="100px;" alt=""/> 
  <br />
-   <sub><b>Rafael Moreira</b></sub><br /></a><p>Front-end & Back-end</p><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a>
+   <sub><b>Rafael Moreira</b></sub><br />Front-end & Back-end</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a>
 </td>
 
 </tr>
