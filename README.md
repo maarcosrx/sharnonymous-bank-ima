@@ -161,7 +161,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <a href="https://github.com/RafaeltiMoreira">
     <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/52933778?v=4" width="100px;" alt=""/> 
  <br />
-   <sub><b>Rafael Moreira</b></sub><br />Front-end & Back-end</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
+   <sub><b>Rafael Moreira</b></sub><br /></a><p>Front-end & Back-end</p><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a>
 </td>
 
 </tr>
