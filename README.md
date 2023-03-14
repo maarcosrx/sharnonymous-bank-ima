@@ -101,7 +101,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <a href="https://github.com/IsabelaSchadt">
     <img src="https://avatars.githubusercontent.com/u/116990892?v=4" width="95"/> 
  <br />
-   <sub><b>Isabela Schadt</b></sub><br />🚀</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
+   <sub><b>Isabela Schadt</b></sub><br />Back-end</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
  </td>
 
 <td align="center">
