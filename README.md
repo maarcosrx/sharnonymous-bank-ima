@@ -110,6 +110,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br />
   <sub><b>Lettycia Cristina</b></sub><br />Front-end & Back-end</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a></a>
 </td>
+
+<td align="center">
+ <a href="https://github.com/danielfsouza22">
+    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/119123808?v=4" width="100px;" alt=""/> 
+ <br />
+   <sub><b>Daniel Ferreira</b></sub><br />Front-end & Back-end</a><a href="https://imalearningplace.com/" title="Imã Learning Place">💻</a>
+</td>
  
 <td align="center">
   <a href="https://github.com/LuciaSantos81">
